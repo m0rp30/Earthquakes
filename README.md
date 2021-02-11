@@ -1,5 +1,5 @@
 # Earthquakes
-Simple experiment width python and json data
+Simple experiment with python and json data
 
 # Requirements
 pip install folium
